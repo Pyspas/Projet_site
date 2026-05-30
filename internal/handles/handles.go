@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 package handles
+=======
+package main
+>>>>>>> 62a6b09e83a75b01378ebeee091e7b6c499e1245
 
 import (
 	"html/template"
